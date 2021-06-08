@@ -1,3 +1,3 @@
-##othello_AI
-###coding by python
-###using pytorch
+## othello_AI
+### coding by python
+### using pytorch
