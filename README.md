@@ -12,7 +12,7 @@
   
   
 3. Description of the models
-4. - othello AI refer to Alpha Go 
+  - othello AI refer to Alpha Go 
   - SLpn: learning policy network by 6 millions othello states in online
   - RLpn: learning policy network by DQN using SLpn parameters
   - learning Value network by RLpn playing data
