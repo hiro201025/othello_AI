@@ -19,6 +19,7 @@
   - learning Value network by RLpn playing data
   - making MonteCarlo tree search to search deeper and faster
 
-4. How strong is this model?
+4. Results
   - MCTS is as strong as SLpn.
-  - MCTS is not strong because of RLpn is not good
+  - I think RLpn is not good.
+  - my PC don't have performance enough to train RLpn. (AlphaGo: 176 GPU, 48 TPU)
