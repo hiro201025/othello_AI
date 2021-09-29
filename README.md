@@ -13,11 +13,11 @@
   
 3. Description of the models
   - othello AI refer to Alpha Go 
-  - these code refer to many web sites.
-  - SLpn: learning policy network by 6 millions othello states in online
-  - RLpn: learning policy network by DQN using SLpn parameters
-  - learning Value network by RLpn playing data
-  - making MonteCarlo tree search to search deeper and faster
+  - these codes refer to many web sites.
+  - SLpn: learning by 6 millions othello states in online
+  - RLpn: learning by DQN based SLpn parameters
+  - Value network: learning by RLpn playing data
+  - MCTS: using SLpn and Value network to search deeper and faster 
 
 4. Results
   - MCTS is as strong as SLpn.
